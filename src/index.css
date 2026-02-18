@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0a2948;
+  --color-background-dark: #111921;
+  --color-surface-dark: #1a2632;
+  --color-surface-highlight: #243442;
+  --color-accent-orange: #f97316;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0B1116;
+}
